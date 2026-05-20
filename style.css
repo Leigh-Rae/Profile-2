@@ -1,0 +1,59 @@
+title {
+    color:orchid;
+}
+#welcome {
+    text-align: center;
+    color:teal;
+}
+.intro{ 
+    color:pink;
+
+}
+#links{
+    color:pink;
+}
+
+#motivation{ 
+    font-size:xx-large;
+    color:pink;
+}
+#heading{
+    text-align: center;
+    color:teal;
+}
+.borders th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+#love{
+    color:pink; 
+}
+#hobs{
+    font-size: xx-large;
+    color:teal;
+    text-align: center;
+}
+#hobsss{
+    font-size:xx-large;
+    color:pink;
+}
+#note{
+    color: pink;
+}
+#skill{
+    font-size: x-large;
+    color:pink
+}
+.contact{
+    color:pink;
+    font-size: large;
+}
+#thanks{
+    color: pink;
+}
+#make{
+    color:teal
+}
+body{
+    background-color:rgb(95, 160, 151);
+}
