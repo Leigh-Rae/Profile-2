@@ -57,3 +57,28 @@ title {
 body{
     background-color:rgb(95, 160, 151);
 }
+/* Unvisited link */
+a:link{
+    color: darkred;
+}
+/*Visited link  */
+a:visited{
+    color:green;
+}
+/* Mouse over link */
+a:hover{
+    color: orange;
+}
+/*  selected link*/
+
+a:active {
+
+    color:aquamarine;
+}
+.fa-envelope{
+    font-size: 150%;
+}
+.fa-instagram{
+    font-size: 150%;
+    
+}
