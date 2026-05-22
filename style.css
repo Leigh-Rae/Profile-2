@@ -5,14 +5,18 @@ nav{
     display: flex;
     justify-content: space-between;
     background-color: pink;
+    text-decoration: none;
 }
 #clone{
     color: teal;
+    font-family:cursive;
 }
 nav ul{
-    display: flex;
+    display:flex;
     list-style-type:none;
     gap: 20px;
+    text-decoration: none;
+    font-family:cursive
 }
 .fa-github{
     font-size: 250%;
@@ -43,13 +47,13 @@ main{
     justify-content: space-around;
 }
 .box{
-    margin: auto;
-    width: 200px;
+
     text-align: left;
 }
-#hire{ 
-    background-color:plum;
+.fa-link{
+    font-size: 250%;
 }
+
 #stack{
     color: pink;
     font-size: 50px;
@@ -73,7 +77,6 @@ main{
 .projects{
     display: flex;
     
-    
 }
 
 
@@ -91,10 +94,10 @@ main{
 
 .image img {
     border-radius: 50%;
-    height: 400px;
-    width: 400px;
-    margin-top: 3%;
-    margin-right:100%;
+    height: 500px;
+    width: 500px;
+    margin-top: 5%;
+    margin-right:200%;
 
 }
 
@@ -118,6 +121,9 @@ main{
 #heading{
     text-align: center;
     color:teal;
+}
+#hire{
+    color: blueviolet;
 }
 .borders th, td{
     border: 2px solid black;
